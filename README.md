@@ -1,28 +1,46 @@
-Hi 👋, I'm Harika Kadimi
-A passionate Software developer from India
-I've done a project on **Liver Disease Prediction Using Gradient Boosting Classifier**
-👯 I’ve done a project on **Campus Event Aggregator**
-I've done a project on **Weather and Traffic-Based Routing System **
-I've done a project on  **Air and Water Quality Index**
-🌱 I’m currently learning MERN stack, Django framework, Reactnative..............
-🤝 I’m looking for help with Working on Personal Finance Assistant
-💬 Ask me about java, spring boot, javascript.............
-👨‍💻 All of my projects are available at https://github.com/dashboard
-📄 Know about my experiences https://pdf.ac/4n5SBE
-📫 How to reach me harikakadiyam852@gmail.com
-⚡ Fun fact I obsessed with cartoons
-Connect with me:
-username : NihaKadiyam1
-Languages and Tools:
-aws
-c
-cplusplus
-css3
-django
-html5
-java
-javascript
-nodejs
-oracle
-python
-reactnative
+👋 Hi, I'm Harika Kadimi
+A passionate and curious Software Developer.
+
+👩‍💻 About Me
+🎓 Final-year CSE student with a strong interest in AI, Web Development, and Machine learning.
+
+🔭 Currently contributing to Frappe Framework by fixing beginner-friendly issues
+
+🚀 Actively learning and building with the Express.js, Node.js, Django, and React Native
+
+💡 I love exploring new technologies and applying them to solve real-world problems
+
+🔥 Recent Projects
+
+Craftsy - Currenlty working on **Craftsy** a mobile-based marketplace that connects customers with local artisans for personalized products like saree printing and custom gifts, streamlining the entire customization process digitally.
+
+🚌 College Bus Tracking System – ESP32-based real-time tracking with Django and Redis backend
+  
+✅ Liver Disease Prediction – Built using Gradient Boosting Classifier with Streamlit UI for real-time diagnosis
+
+🏫 Campus Event Aggregator – Centralized platform for college event announcements and registrations
+
+🚦 Weather and Traffic-Based Routing System – Smart navigation system using weather & traffic APIs
+
+🌍 Air and Water Quality Index Monitor – Environmental monitoring app using live API integrations
+
+🚌 College Bus Tracking System – ESP32-based real-time tracking with Django and Redis backend
+
+🌱 Currently Learning
+
+Full-stack Development
+
+Backend Development using Django + Mysql
+
+Exploring LLMs and AI Agents for intelligent apps
+
+💬 Ask Me About
+Java, JavaScript, Python, Django, Git, REST APIs, MySQL
+
+📂 My Work
+💻 All Projects: github.com/Nihakadiyam1
+
+📄 Resume: View Resume (pdf.ac link)
+
+📫 Reach Me At
+📧 harikakadiyam852@gmail.com
