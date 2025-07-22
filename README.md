@@ -12,9 +12,9 @@ A passionate and curious Software Developer.
 
 🔥 Recent Projects
 
-Craftsy - Currenlty working on **Craftsy** a mobile-based marketplace that connects customers with local artisans for personalized products like saree printing and custom gifts, streamlining the entire customization process digitally.
+-> Craftsy - Currenlty working on **Craftsy** a mobile-based marketplace that connects customers with local artisans for personalized products like saree printing and custom gifts, streamlining the entire customization process digitally.
 
-🚌 College Bus Tracking System – ESP32-based real-time tracking with Django and Redis backend
+🚌 College Bus Tracking System – ESP32-based real-time tracking with Django and Redis backend (Currently Working)
   
 ✅ Liver Disease Prediction – Built using Gradient Boosting Classifier with Streamlit UI for real-time diagnosis
 
