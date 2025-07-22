@@ -1,6 +1,11 @@
 👋 Hi, I'm Harika Kadimi
 A passionate and curious Software Developer.
 
+📂** My Work**
+💻 All Projects: github.com/Nihakadiyam1
+
+📄 **Resume**: View Resume https://drive.google.com/file/d/1VDe4QOledPJSvg98FMUTcrN2qOq5E3EN/view?usp=sharing
+
 👩‍💻 About Me
 🎓 Final-year CSE student with a strong interest in AI, Web Development, and Machine learning.
 
@@ -37,10 +42,6 @@ Exploring LLMs and AI Agents for intelligent apps
 💬 Ask Me About
 Java, JavaScript, Python, Django, Git, REST APIs, MySQL
 
-📂 My Work
-💻 All Projects: github.com/Nihakadiyam1
-
-📄 Resume: View Resume (pdf.ac link)
 
 📫 Reach Me At
 📧 harikakadiyam852@gmail.com
