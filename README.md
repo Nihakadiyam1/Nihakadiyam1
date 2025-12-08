@@ -4,7 +4,7 @@ A passionate and curious Software Developer.
 📂** My Work**
 💻 All Projects: github.com/Nihakadiyam1
 
-📄 **Resume**: View Resume https://drive.google.com/file/d/1VDe4QOledPJSvg98FMUTcrN2qOq5E3EN/view?usp=sharing
+📄 **Resume**: View Resume https://drive.google.com/file/d/1cHQ6OA9a7OHJmSXzhhcjWoW5iz6wyfTF/view?usp=sharing
 
 👩‍💻 About Me
 🎓 Final-year CSE student with a strong interest in AI, Web Development, and Machine learning.
