@@ -1,47 +1,81 @@
-👋 Hi, I'm Harika Kadimi
-A passionate and curious Software Developer.
+Hi, I’m Harika Kadimi
 
-📂** My Work**
-💻 All Projects: github.com/Nihakadiyam1
+I’m a final-year Computer Science student and an aspiring software developer with a strong interest in web development, backend systems, and applied AI. I enjoy building real-world applications, contributing to open source, and continuously improving my engineering skills.
 
-📄 **Resume**: View Resume https://drive.google.com/file/d/1cHQ6OA9a7OHJmSXzhhcjWoW5iz6wyfTF/view?usp=sharing
+My Work
 
-👩‍💻 About Me
-🎓 Final-year CSE student with a strong interest in AI, Web Development, and Machine learning.
+GitHub: https://github.com/Nihakadiyam1
 
-🔭 Currently contributing to Frappe Framework by fixing beginner-friendly issues
+All my projects, experiments, and open-source contributions are available here.
 
-🚀 Actively learning and building with the Express.js, Node.js, Django, and React Native
+Resume:
+https://drive.google.com/file/d/1BOdhRTIRriWDti01PcGWRkTR3S-1lcz8/view?usp=sharing
 
-💡 I love exploring new technologies and applying them to solve real-world problems
+About Me:
 
-🔥 Recent Projects
+Final-year CSE student with hands-on experience in full-stack and backend development
 
--> Craftsy - Currenlty working on **Craftsy** a mobile-based marketplace that connects customers with local artisans for personalized products like saree printing and custom gifts, streamlining the entire customization process digitally.
+Currently contributing to the Frappe Framework, focusing on beginner-friendly bug fixes and improvements
 
-🚌 College Bus Tracking System – ESP32-based real-time tracking with Django and Redis backend (Currently Working)
-  
-✅ Liver Disease Prediction – Built using Gradient Boosting Classifier with Streamlit UI for real-time diagnosis
+Actively learning and building applications using Node.js, Express.js, Django, and React 
 
-🏫 Campus Event Aggregator – Centralized platform for college event announcements and registrations
+Interested in applying technology to solve real-world problems in a practical and scalable way
 
-🚦 Weather and Traffic-Based Routing System – Smart navigation system using weather & traffic APIs
+Recent Projects:
 
-🌍 Air and Water Quality Index Monitor – Environmental monitoring app using live API integrations
+Craftsy – A Personalised Bazaar
+Currently developing a mobile-based marketplace that connects customers with local artisans for customized products such as saree printing and personalized gifts, digitizing the entire customization workflow.
 
-🚌 College Bus Tracking System – ESP32-based real-time tracking with Django and Redis backend
+My College Bus Tracking System (In Progress)
+Developed a Java-based web application for real-time college bus tracking using the Google Maps JavaScript API.  
+Built admin modules with JSP, Servlets, and MySQL, and deployed the application on Apache Tomcat.
 
-🌱 Currently Learning
+Liver Disease Prediction System
+Built a machine-learning application using a Gradient Boosting Classifier with a Streamlit interface for real-time prediction and diagnosis support.
 
-Full-stack Development
+Weather and Traffic-Based Routing System
+Designed a smart routing solution using real-time weather and traffic APIs to optimize travel paths.
 
-Backend Development using Django + Mysql
+Air and Water Quality Index Monitor
+Built an environmental monitoring application using live API integrations to track air and water quality metrics.
 
-Exploring LLMs and AI Agents for intelligent apps
+Currently Learning:
 
-💬 Ask Me About
-Java, JavaScript, Python, Django, Git, REST APIs, MySQL
+Full-stack web development
 
+Backend development using Django and MySQL
 
-📫 Reach Me At
-📧 harikakadiyam852@gmail.com
+Exploring LLMs and AI agents for building intelligent applications
+
+Technical Skills:
+
+Programming & Web Technologies:
+Java
+JavaScript (ES6+), PHP
+HTML5, CSS3
+MySQL
+
+Frameworks & Platforms:
+WordPress (Plugin Development, Hooks, Core Concepts)
+React, Next.js
+Node.js, Express.js
+
+Open Source & Version Control
+Git, GitHub
+Open-source contribution workflows (issues, pull requests, reviews)
+
+APIs & Backend
+RESTful API Design and Integration
+Basic Authentication & Authorization
+
+Cloud & DevOps (Foundational)
+AWS (EC2, CloudWatch)
+Terraform (Basics)
+
+Agile & Collaboration
+Jira
+Scrum and Kanban
+
+Contact
+
+📧 Email: harikakadiyam852@gmail.com
